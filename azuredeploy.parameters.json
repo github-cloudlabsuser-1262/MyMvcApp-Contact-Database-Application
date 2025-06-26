@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "my-mvc-app-unique"
+      "value": "my-mvc-app-1262"
     },
     "location": {
-      "value": "eastus"
+      "value": "westus"
     },
     "sku": {
       "value": "F1"
